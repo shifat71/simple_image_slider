@@ -9,7 +9,7 @@ function previous(){
     }
     
     var sourceChange = document.querySelector("#imgID");
-    sourceChange.src="image"+counter+".jpg";
+    sourceChange.src="image"+counter+".JPG";
     
     
 }
@@ -22,7 +22,7 @@ function next(){
     }
     
     var sourceChange = document.querySelector("#imgID");
-    sourceChange.src="image"+counter+".jpg";
+    sourceChange.src="image"+counter+".JPG";
     
     
 }
